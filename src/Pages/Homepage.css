@@ -1,0 +1,98 @@
+.App {
+    /* text-align: center; */
+    height: 100vh;
+    width: 100%;
+    background-color: rgb(225, 240, 118);
+  }
+  
+  .headercomp{
+    height: 12vh;
+    width: 100%;
+    
+  }
+  .sortbtn{
+    height: 30px;
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 30px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px grey;
+    border: none;
+  }
+  .main{
+    height: 74vh;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+  .allbtn{
+    height: 30px;
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 40px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px grey;
+    border: none;
+  }
+  h3{
+    padding-left: 20px;
+    padding-top: 10px;
+  }
+  .filterbtn{
+    height: 30px;
+    width: 100px;
+    margin: 10px;
+    margin-left: 40px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px grey;
+    border: none;
+  }
+  .pricefilterbtn{
+    height: 30px;
+    width: 100px;
+    margin: 10px;
+    margin-left: 40px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px grey;
+    border: none;
+  }
+  
+  .sidebarcont{
+    height: 74vh;
+    width: 15%;
+    
+  }
+  .contentcont{
+    height: 74vh;
+    width: 55%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  
+  .formcont{
+    height: 74vh;
+    width: 30%;
+    
+    }
+    p{
+      padding-left: 150px;
+      font-size: 30px;
+      font-weight: bold;
+    }
+  .footercont{
+    height: 7vh;
+    width: 100%;
+  
+  }
+  
+  

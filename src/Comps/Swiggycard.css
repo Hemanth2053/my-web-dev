@@ -1,0 +1,21 @@
+.swiggycardcont{
+    height: 180px;
+    width: 350px;
+    background-color: cadetblue;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+}
+.firstcont{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+.secondcont{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}

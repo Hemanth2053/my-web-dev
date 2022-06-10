@@ -1,0 +1,48 @@
+.formcont{
+    padding-left: 15px;
+    
+}
+.inputcont{
+    height: 35px;
+    width: 330px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    padding-left: 15px;
+    
+}
+
+.selectcont{
+    height: 35px;
+    width: 340px;
+    margin: 10px;
+    border-radius: 10px;
+    border: none;
+    padding-left: 18px;
+
+}
+.submitcont{
+    height: 30px;
+    width: 100px;
+    margin-top: 30px;
+    margin-left: 130px;
+    background-color: darkcyan;
+    color: black;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px grey;
+    border: none;
+}
+.inputrangecont{
+    height: 30px;
+    width: 340px;
+    margin-top: 3px;
+    margin-left: 3px;
+    background-color: darkcyan;
+    color: black;
+    
+    border: none;   
+}
+p{
+    margin-left: 2px;
+    font-size: 15px;
+}

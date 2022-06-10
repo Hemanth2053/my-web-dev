@@ -1,0 +1,23 @@
+.App{
+  display: flex;
+  flex-wrap: wrap;
+  
+}
+.navcont{
+  display: flex;
+  flex-direction: row;
+  justify-content: end;
+  color: black;
+
+  
+}
+h4{
+  align-items: flex-end;
+  padding: 10px;
+  
+}
+h2{
+  font-weight: bold;
+  font-style: italic;
+  
+}
